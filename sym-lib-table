@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "parts")(type "KiCad")(uri "/home/pjht/projects/68010-backplane-computer/parts.kicad_sym")(options "")(descr ""))
+  (lib (name "bus")(type "KiCad")(uri "/home/pjht/projects/68010-backplane-computer/bus.kicad_sym")(options "")(descr ""))
+)
