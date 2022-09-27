@@ -4,6 +4,11 @@
 
   (paper "USLetter")
 
+  (title_block
+    (title "RAM/ROM Board")
+    (rev "1")
+  )
+
   (lib_symbols
     (symbol "parts:Bus" (in_bom yes) (on_board yes)
       (property "Reference" "J4" (id 0) (at -1.905 54.449 0)
